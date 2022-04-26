@@ -1,0 +1,54 @@
+<h1>Semantica </h1>
+
+<h2>Citações</h2>
+    <blockquote cite="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">
+        O <strong>Elemento HTML <code>&lt;blockquote&gt;</code> </strong> (ou <em>HTML Block
+     Quotation Element</em>) indica que um texto externo foi citado.
+    </blockquote>
+
+    <p>De acordo com <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote">
+     <cite>página MDN blockquote</cite></a>:
+    </p>
+
+    <p>O elemento quote — <code>&lt;q&gt;</code> — é <q cite="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">usado para citações curtas
+     que não precisam de parágrafos ou quebras de linha.
+    </q> -- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q">
+    <cite>MDN q page</cite></a>.
+</p>
+
+<h2>Abreviações</h2>
+    <p>
+    Usamos <abbr title="Hypertext Markup Language">HTML</abbr>
+    para estruturar um documento na net <br>
+    -> se descansar o mouse em cima de "HTML" 
+    mostrar o significado da sigla
+</p>
+
+<h2>Detalhes de contato</h2>
+    <address>
+    <p>Iago Cabral <br>
+    <strong>Brasilia,DF</strong>
+    </p>
+</address>
+
+<h2>Glossario</h2>
+ <dl>
+    <dt>Hypertext</dt>
+    <dd>É um hiper texto com possiblidade</dd>
+
+    <dt>Markup</dt>
+    <dd>Marcação de texto</dd>
+
+    <dt>Language</dt>
+    <dd>LInguagem com sua Semantica</dd>
+</dl>
+
+<h2>Representação de codigo</h2>
+    <pre>
+      <code>
+         &lt;
+         &lacute;
+         &laemptyv;
+        </code>
+</pre>
+ 
